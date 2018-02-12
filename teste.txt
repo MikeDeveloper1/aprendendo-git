@@ -1,6 +1,6 @@
 <html>
 	<head>
-
+		<title>Aprendendo Git</title>
 	</head>
 	<body>
 		<h1>Projeto do Mike</h1>
