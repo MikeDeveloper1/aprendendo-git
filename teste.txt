@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<link rel="stylesheet" href="estilos.css">
-		<title>Aprendendo Git 6</title>
+		<title>Aprendendo Git 7</title>
 	</head>
 	<body>
 		<h1>Projeto do Mike</h1>
