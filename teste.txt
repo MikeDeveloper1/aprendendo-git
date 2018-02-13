@@ -5,5 +5,7 @@
 	</head>
 	<body>
 		<h1>Projeto do Mike</h1>
+
+		<h2>Rodapé</h2>
 	</body>
 </html>
